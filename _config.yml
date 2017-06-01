@@ -1,0 +1,13 @@
+theme: minima
+title: Christopher Bonhage
+author: Christopher Bonhage
+email: me@christopherbonhage.com
+github_username: meeq
+google_analytics: UA-101038319-1
+header_pages:
+  - title: Hello
+    url: '/'
+  - title: Posts
+    url: '/posts.html'
+  - title: Resume
+    url: '/resume.html'

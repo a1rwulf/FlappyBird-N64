@@ -1,0 +1,7 @@
+.bundle
+.jekyll-metadata
+_site
+vendor/*
+
+.directory
+.DS_Store
