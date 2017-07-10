@@ -5,9 +5,11 @@ email: me@christopherbonhage.com
 github_username: meeq
 google_analytics: UA-101038319-1
 header_pages:
-  - title: Hello
+  - title: Home
     url: '/'
   - title: Posts
-    url: '/posts.html'
+    url: '/posts'
+  - title: μblog
+    url: '/microblog'
   - title: Resume
-    url: '/resume.html'
+    url: '/resume'
